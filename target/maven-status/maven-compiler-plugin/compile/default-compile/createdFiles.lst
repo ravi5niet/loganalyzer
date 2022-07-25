@@ -1,0 +1,6 @@
+utility\Utility.class
+services\LogServiceImpl.class
+model\LogEntryPersist.class
+ServiceImpl\LogService.class
+model\LogEntry.class
+ravi\App.class

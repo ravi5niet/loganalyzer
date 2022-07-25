@@ -1,0 +1,1 @@
+create table if not exists logdetail (id VARCHAR(100) NOT NULL,duration numeric,type VARCHAR(100) NOT NULL,host VARCHAR(100),alert BOOLEAN,PRIMARY KEY (id));

@@ -1,0 +1,30 @@
+{"id":"scsmbstgra" , "state":"STARTED","type":"APPLICATION_LOG", "host":"1234", "timestamp":1491377495212}
+{"id":"scsmbstgrb" , "state":"STARTED", "timestamp":1491377495213}
+{"id":"scsmbstgrc" , "state":"FINISHED", "timestamp":1491377495218}
+{"id":"scsmbstgra" , "state":"FINISHED","type":"APPLICATION_LOG", "host":"1234", "timestamp":1491377495217}
+{"id":"scsmbstgrc" , "state":"STARTED", "timestamp":1491377495210}
+{"id":"scsmbstgrb" , "state":"FINISHED", "timestamp":1491377495216}
+{"id":"scsmbstgra1" , "state":"STARTED","type":"APPLICATION_LOG", "host":"1234", "timestamp":1491377495212}
+{"id":"scsmbstgrb2" , "state":"STARTED", "timestamp":1491377495213}
+{"id":"scsmbstgrc3" , "state":"FINISHED", "timestamp":1491377495218}
+{"id":"scsmbstgra1" , "state":"FINISHED","type":"APPLICATION_LOG", "host":"1234", "timestamp":1491377495217}
+{"id":"scsmbstgrc3" , "state":"STARTED", "timestamp":1491377495210}
+{"id":"scsmbstgrb2" , "state":"FINISHED", "timestamp":1491377495216}
+{"id":"scsmbstgra11" , "state":"STARTED","type":"APPLICATION_LOG", "host":"1234", "timestamp":1491377495212}
+{"id":"scsmbstgrb22" , "state":"STARTED", "timestamp":1491377495213}
+{"id":"scsmbstgrc33" , "state":"FINISHED", "timestamp":1491377495218}
+{"id":"scsmbstgra11" , "state":"FINISHED","type":"APPLICATION_LOG", "host":"1234", "timestamp":1491377495217}
+{"id":"scsmbstgrc33" , "state":"STARTED", "timestamp":1491377495210}
+{"id":"scsmbstgrb22" , "state":"FINISHED", "timestamp":1491377495216}
+{"id":"scsmbstgra111" , "state":"STARTED","type":"APPLICATION_LOG", "host":"1234", "timestamp":1491377495212}
+{"id":"scsmbstgrb222" , "state":"STARTED", "timestamp":1491377495213}
+{"id":"scsmbstgrc333" , "state":"FINISHED", "timestamp":1491377495218}
+{"id":"scsmbstgra111" , "state":"FINISHED","type":"APPLICATION_LOG", "host":"1234", "timestamp":1491377495217}
+{"id":"scsmbstgrc333" , "state":"STARTED", "timestamp":1491377495210}
+{"id":"scsmbstgrb222" , "state":"FINISHED", "timestamp":1491377495216}
+{"id":"scsmbstgra1111" , "state":"STARTED","type":"APPLICATION_LOG", "host":"1234", "timestamp":1491377495212}
+{"id":"scsmbstgrb2222" , "state":"STARTED", "timestamp":1491377495213}
+{"id":"scsmbstgrc3333" , "state":"FINISHED", "timestamp":1491377495218}
+{"id":"scsmbstgra1111" , "state":"FINISHED","type":"APPLICATION_LOG", "host":"1234", "timestamp":1491377495217}
+{"id":"scsmbstgrc3333" , "state":"STARTED", "timestamp":1491377495210}
+{"id":"scsmbstgrb2222" , "state":"FINISHED", "timestamp":1491377495216}

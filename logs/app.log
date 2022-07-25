@@ -1,0 +1,136 @@
+2022-07-25 14:44:12,559 [main] INFO  ravi.App - App Strat!
+2022-07-25 14:44:12,559 [main] INFO  ravi.App - path provided :C:/Personal/workSpace/loganalyzer/logfile.txt
+2022-07-25 14:44:12,844 [main] DEBUG services.LogServiceImpl - Entry OBJ:scsmbstgra 1234 STARTED 1491377495212
+2022-07-25 14:44:12,845 [main] DEBUG services.LogServiceImpl - Entry OBJ:scsmbstgrb null STARTED 1491377495213
+2022-07-25 14:44:12,845 [main] DEBUG services.LogServiceImpl - Entry OBJ:scsmbstgrc null FINISHED 1491377495218
+2022-07-25 14:44:12,845 [main] DEBUG services.LogServiceImpl - Entry OBJ:scsmbstgra 1234 FINISHED 1491377495217
+2022-07-25 14:44:12,846 [main] DEBUG services.LogServiceImpl - Entry OBJ:scsmbstgrc null STARTED 1491377495210
+2022-07-25 14:44:12,846 [main] DEBUG services.LogServiceImpl - Entry OBJ:scsmbstgrb null FINISHED 1491377495216
+2022-07-25 14:44:12,846 [main] DEBUG services.LogServiceImpl - Entry OBJ:scsmbstgra1 1234 STARTED 1491377495212
+2022-07-25 14:44:12,846 [main] DEBUG services.LogServiceImpl - Entry OBJ:scsmbstgrb2 null STARTED 1491377495213
+2022-07-25 14:44:12,846 [main] DEBUG services.LogServiceImpl - Entry OBJ:scsmbstgrc3 null FINISHED 1491377495218
+2022-07-25 14:44:12,846 [main] DEBUG services.LogServiceImpl - Entry OBJ:scsmbstgra1 1234 FINISHED 1491377495217
+2022-07-25 14:44:12,846 [main] DEBUG services.LogServiceImpl - Entry OBJ:scsmbstgrc3 null STARTED 1491377495210
+2022-07-25 14:44:12,846 [main] DEBUG services.LogServiceImpl - Entry OBJ:scsmbstgrb2 null FINISHED 1491377495216
+2022-07-25 14:44:12,847 [main] DEBUG services.LogServiceImpl - Entry OBJ:scsmbstgra11 1234 STARTED 1491377495212
+2022-07-25 14:44:12,847 [main] DEBUG services.LogServiceImpl - Entry OBJ:scsmbstgrb22 null STARTED 1491377495213
+2022-07-25 14:44:12,847 [main] DEBUG services.LogServiceImpl - Entry OBJ:scsmbstgrc33 null FINISHED 1491377495218
+2022-07-25 14:44:12,848 [main] DEBUG services.LogServiceImpl - Entry OBJ:scsmbstgra11 1234 FINISHED 1491377495217
+2022-07-25 14:44:12,848 [main] DEBUG services.LogServiceImpl - Entry OBJ:scsmbstgrc33 null STARTED 1491377495210
+2022-07-25 14:44:12,848 [main] DEBUG services.LogServiceImpl - Entry OBJ:scsmbstgrb22 null FINISHED 1491377495216
+2022-07-25 14:44:12,848 [main] DEBUG services.LogServiceImpl - Entry OBJ:scsmbstgra111 1234 STARTED 1491377495212
+2022-07-25 14:44:12,848 [main] DEBUG services.LogServiceImpl - Entry OBJ:scsmbstgrb222 null STARTED 1491377495213
+2022-07-25 14:44:12,848 [main] DEBUG services.LogServiceImpl - Entry OBJ:scsmbstgrc333 null FINISHED 1491377495218
+2022-07-25 14:44:12,848 [main] DEBUG services.LogServiceImpl - Entry OBJ:scsmbstgra111 1234 FINISHED 1491377495217
+2022-07-25 14:44:12,848 [main] INFO  services.LogServiceImpl - update 10 record from persistLogRecords
+2022-07-25 14:44:12,849 [main] INFO  utility.Utility - create logdetail table in dont exist!!
+2022-07-25 14:44:12,861 [main] DEBUG services.LogServiceImpl - Entry OBJ:scsmbstgrc333 null STARTED 1491377495210
+2022-07-25 14:44:12,861 [main] DEBUG services.LogServiceImpl - Entry OBJ:scsmbstgrb222 null FINISHED 1491377495216
+2022-07-25 14:44:12,861 [main] DEBUG services.LogServiceImpl - Entry OBJ:scsmbstgra1111 1234 STARTED 1491377495212
+2022-07-25 14:44:12,861 [main] DEBUG services.LogServiceImpl - Entry OBJ:scsmbstgrb2222 null STARTED 1491377495213
+2022-07-25 14:44:12,861 [main] DEBUG services.LogServiceImpl - Entry OBJ:scsmbstgrc3333 null FINISHED 1491377495218
+2022-07-25 14:44:12,861 [main] DEBUG services.LogServiceImpl - Entry OBJ:scsmbstgra1111 1234 FINISHED 1491377495217
+2022-07-25 14:44:12,861 [main] DEBUG services.LogServiceImpl - Entry OBJ:scsmbstgrc3333 null STARTED 1491377495210
+2022-07-25 14:44:12,862 [main] DEBUG services.LogServiceImpl - Entry OBJ:scsmbstgrb2222 null FINISHED 1491377495216
+2022-07-25 14:44:12,862 [main] ERROR services.LogServiceImpl - com.fasterxml.jackson.databind.exc.MismatchedInputException: No content to map due to end-of-input
+ at [Source: (String)""; line: 1, column: 0]
+2022-07-25 14:44:58,317 [main] DEBUG services.LogServiceImpl - Entry OBJ:scsmbstgra 1234 STARTED 1491377495212
+2022-07-25 14:44:58,318 [main] DEBUG services.LogServiceImpl - Entry OBJ:scsmbstgrb null STARTED 1491377495213
+2022-07-25 14:44:58,318 [main] DEBUG services.LogServiceImpl - Entry OBJ:scsmbstgrc null FINISHED 1491377495218
+2022-07-25 14:44:58,319 [main] DEBUG services.LogServiceImpl - Entry OBJ:scsmbstgra 1234 FINISHED 1491377495217
+2022-07-25 14:44:58,319 [main] DEBUG services.LogServiceImpl - Entry OBJ:scsmbstgrc null STARTED 1491377495210
+2022-07-25 14:44:58,320 [main] DEBUG services.LogServiceImpl - Entry OBJ:scsmbstgrb null FINISHED 1491377495216
+2022-07-25 14:44:58,320 [main] DEBUG services.LogServiceImpl - Entry OBJ:scsmbstgra1 1234 STARTED 1491377495212
+2022-07-25 14:44:58,320 [main] DEBUG services.LogServiceImpl - Entry OBJ:scsmbstgrb2 null STARTED 1491377495213
+2022-07-25 14:44:58,320 [main] DEBUG services.LogServiceImpl - Entry OBJ:scsmbstgrc3 null FINISHED 1491377495218
+2022-07-25 14:44:58,320 [main] DEBUG services.LogServiceImpl - Entry OBJ:scsmbstgra1 1234 FINISHED 1491377495217
+2022-07-25 14:44:58,320 [main] DEBUG services.LogServiceImpl - Entry OBJ:scsmbstgrc3 null STARTED 1491377495210
+2022-07-25 14:44:58,320 [main] DEBUG services.LogServiceImpl - Entry OBJ:scsmbstgrb2 null FINISHED 1491377495216
+2022-07-25 14:44:58,320 [main] DEBUG services.LogServiceImpl - Entry OBJ:scsmbstgra11 1234 STARTED 1491377495212
+2022-07-25 14:44:58,320 [main] DEBUG services.LogServiceImpl - Entry OBJ:scsmbstgrb22 null STARTED 1491377495213
+2022-07-25 14:44:58,320 [main] DEBUG services.LogServiceImpl - Entry OBJ:scsmbstgrc33 null FINISHED 1491377495218
+2022-07-25 14:44:58,321 [main] DEBUG services.LogServiceImpl - Entry OBJ:scsmbstgra11 1234 FINISHED 1491377495217
+2022-07-25 14:44:58,321 [main] DEBUG services.LogServiceImpl - Entry OBJ:scsmbstgrc33 null STARTED 1491377495210
+2022-07-25 14:44:58,321 [main] DEBUG services.LogServiceImpl - Entry OBJ:scsmbstgrb22 null FINISHED 1491377495216
+2022-07-25 14:44:58,321 [main] DEBUG services.LogServiceImpl - Entry OBJ:scsmbstgra111 1234 STARTED 1491377495212
+2022-07-25 14:44:58,321 [main] DEBUG services.LogServiceImpl - Entry OBJ:scsmbstgrb222 null STARTED 1491377495213
+2022-07-25 14:44:58,322 [main] DEBUG services.LogServiceImpl - Entry OBJ:scsmbstgrc333 null FINISHED 1491377495218
+2022-07-25 14:44:58,322 [main] DEBUG services.LogServiceImpl - Entry OBJ:scsmbstgra111 1234 FINISHED 1491377495217
+2022-07-25 14:44:58,322 [main] INFO  services.LogServiceImpl - update 10 record from persistLogRecords
+2022-07-25 14:44:58,322 [main] INFO  utility.Utility - create logdetail table in dont exist!!
+2022-07-25 14:44:58,335 [main] DEBUG services.LogServiceImpl - Entry OBJ:scsmbstgrc333 null STARTED 1491377495210
+2022-07-25 14:44:58,335 [main] DEBUG services.LogServiceImpl - Entry OBJ:scsmbstgrb222 null FINISHED 1491377495216
+2022-07-25 14:44:58,335 [main] DEBUG services.LogServiceImpl - Entry OBJ:scsmbstgra1111 1234 STARTED 1491377495212
+2022-07-25 14:44:58,335 [main] DEBUG services.LogServiceImpl - Entry OBJ:scsmbstgrb2222 null STARTED 1491377495213
+2022-07-25 14:44:58,336 [main] DEBUG services.LogServiceImpl - Entry OBJ:scsmbstgrc3333 null FINISHED 1491377495218
+2022-07-25 14:44:58,336 [main] DEBUG services.LogServiceImpl - Entry OBJ:scsmbstgra1111 1234 FINISHED 1491377495217
+2022-07-25 14:44:58,336 [main] DEBUG services.LogServiceImpl - Entry OBJ:scsmbstgrc3333 null STARTED 1491377495210
+2022-07-25 14:44:58,336 [main] DEBUG services.LogServiceImpl - Entry OBJ:scsmbstgrb2222 null FINISHED 1491377495216
+2022-07-25 14:44:58,337 [main] INFO  utility.Utility - create logdetail table in dont exist!!
+2022-07-25 14:44:58,338 [main] INFO  utility.Utility - create logdetail table in dont exist!!
+2022-07-25 14:44:58,339 [main] DEBUG services.LogServiceImpl - retrive data from logdetail table id: scsmbstgra  duration : 5      Alert : true
+2022-07-25 14:44:58,339 [main] DEBUG services.LogServiceImpl - retrive data from logdetail table id: scsmbstgra1  duration : 5      Alert : true
+2022-07-25 14:44:58,339 [main] DEBUG services.LogServiceImpl - retrive data from logdetail table id: scsmbstgra11  duration : 5      Alert : true
+2022-07-25 14:44:58,339 [main] DEBUG services.LogServiceImpl - retrive data from logdetail table id: scsmbstgra111  duration : 5      Alert : true
+2022-07-25 14:44:58,339 [main] DEBUG services.LogServiceImpl - retrive data from logdetail table id: scsmbstgra1111  duration : 5      Alert : true
+2022-07-25 14:44:58,340 [main] DEBUG services.LogServiceImpl - retrive data from logdetail table id: scsmbstgrb  duration : 3      Alert : false
+2022-07-25 14:44:58,340 [main] DEBUG services.LogServiceImpl - retrive data from logdetail table id: scsmbstgrb2  duration : 3      Alert : false
+2022-07-25 14:44:58,340 [main] DEBUG services.LogServiceImpl - retrive data from logdetail table id: scsmbstgrb22  duration : 3      Alert : false
+2022-07-25 14:44:58,340 [main] DEBUG services.LogServiceImpl - retrive data from logdetail table id: scsmbstgrb222  duration : 3      Alert : false
+2022-07-25 14:44:58,340 [main] DEBUG services.LogServiceImpl - retrive data from logdetail table id: scsmbstgrb2222  duration : 3      Alert : false
+2022-07-25 14:44:58,340 [main] DEBUG services.LogServiceImpl - retrive data from logdetail table id: scsmbstgrc  duration : 8      Alert : true
+2022-07-25 14:44:58,340 [main] DEBUG services.LogServiceImpl - retrive data from logdetail table id: scsmbstgrc3  duration : 8      Alert : true
+2022-07-25 14:44:58,340 [main] DEBUG services.LogServiceImpl - retrive data from logdetail table id: scsmbstgrc33  duration : 8      Alert : true
+2022-07-25 14:44:58,340 [main] DEBUG services.LogServiceImpl - retrive data from logdetail table id: scsmbstgrc333  duration : 8      Alert : true
+2022-07-25 14:44:58,340 [main] DEBUG services.LogServiceImpl - retrive data from logdetail table id: scsmbstgrc3333  duration : 8      Alert : true
+2022-07-25 14:45:12,010 [main] INFO  ravi.App - App Strat!
+2022-07-25 14:45:12,011 [main] INFO  ravi.App - path provided :C:/Personal/workSpace/credit-suisse-test/lotextfile/logfile.txt
+2022-07-25 14:45:12,291 [main] DEBUG services.LogServiceImpl - Entry OBJ:scsmbstgra 1234 STARTED 1491377495212
+2022-07-25 14:45:12,291 [main] DEBUG services.LogServiceImpl - Entry OBJ:scsmbstgrb null STARTED 1491377495213
+2022-07-25 14:45:12,291 [main] DEBUG services.LogServiceImpl - Entry OBJ:scsmbstgrc null FINISHED 1491377495218
+2022-07-25 14:45:12,291 [main] DEBUG services.LogServiceImpl - Entry OBJ:scsmbstgra 1234 FINISHED 1491377495217
+2022-07-25 14:45:12,292 [main] DEBUG services.LogServiceImpl - Entry OBJ:scsmbstgrc null STARTED 1491377495210
+2022-07-25 14:45:12,292 [main] DEBUG services.LogServiceImpl - Entry OBJ:scsmbstgrb null FINISHED 1491377495216
+2022-07-25 14:45:12,292 [main] DEBUG services.LogServiceImpl - Entry OBJ:scsmbstgra1 1234 STARTED 1491377495212
+2022-07-25 14:45:12,292 [main] DEBUG services.LogServiceImpl - Entry OBJ:scsmbstgrb2 null STARTED 1491377495213
+2022-07-25 14:45:12,292 [main] DEBUG services.LogServiceImpl - Entry OBJ:scsmbstgrc3 null FINISHED 1491377495218
+2022-07-25 14:45:12,292 [main] DEBUG services.LogServiceImpl - Entry OBJ:scsmbstgra1 1234 FINISHED 1491377495217
+2022-07-25 14:45:12,292 [main] DEBUG services.LogServiceImpl - Entry OBJ:scsmbstgrc3 null STARTED 1491377495210
+2022-07-25 14:45:12,292 [main] DEBUG services.LogServiceImpl - Entry OBJ:scsmbstgrb2 null FINISHED 1491377495216
+2022-07-25 14:45:12,292 [main] DEBUG services.LogServiceImpl - Entry OBJ:scsmbstgra11 1234 STARTED 1491377495212
+2022-07-25 14:45:12,292 [main] DEBUG services.LogServiceImpl - Entry OBJ:scsmbstgrb22 null STARTED 1491377495213
+2022-07-25 14:45:12,292 [main] DEBUG services.LogServiceImpl - Entry OBJ:scsmbstgrc33 null FINISHED 1491377495218
+2022-07-25 14:45:12,293 [main] DEBUG services.LogServiceImpl - Entry OBJ:scsmbstgra11 1234 FINISHED 1491377495217
+2022-07-25 14:45:12,293 [main] DEBUG services.LogServiceImpl - Entry OBJ:scsmbstgrc33 null STARTED 1491377495210
+2022-07-25 14:45:12,293 [main] DEBUG services.LogServiceImpl - Entry OBJ:scsmbstgrb22 null FINISHED 1491377495216
+2022-07-25 14:45:12,294 [main] DEBUG services.LogServiceImpl - Entry OBJ:scsmbstgra111 1234 STARTED 1491377495212
+2022-07-25 14:45:12,294 [main] DEBUG services.LogServiceImpl - Entry OBJ:scsmbstgrb222 null STARTED 1491377495213
+2022-07-25 14:45:12,294 [main] DEBUG services.LogServiceImpl - Entry OBJ:scsmbstgrc333 null FINISHED 1491377495218
+2022-07-25 14:45:12,294 [main] DEBUG services.LogServiceImpl - Entry OBJ:scsmbstgra111 1234 FINISHED 1491377495217
+2022-07-25 14:45:12,294 [main] INFO  services.LogServiceImpl - update 10 record from persistLogRecords
+2022-07-25 14:45:12,295 [main] INFO  utility.Utility - create logdetail table in dont exist!!
+2022-07-25 14:45:12,308 [main] DEBUG services.LogServiceImpl - Entry OBJ:scsmbstgrc333 null STARTED 1491377495210
+2022-07-25 14:45:12,308 [main] DEBUG services.LogServiceImpl - Entry OBJ:scsmbstgrb222 null FINISHED 1491377495216
+2022-07-25 14:45:12,308 [main] DEBUG services.LogServiceImpl - Entry OBJ:scsmbstgra1111 1234 STARTED 1491377495212
+2022-07-25 14:45:12,308 [main] DEBUG services.LogServiceImpl - Entry OBJ:scsmbstgrb2222 null STARTED 1491377495213
+2022-07-25 14:45:12,308 [main] DEBUG services.LogServiceImpl - Entry OBJ:scsmbstgrc3333 null FINISHED 1491377495218
+2022-07-25 14:45:12,308 [main] DEBUG services.LogServiceImpl - Entry OBJ:scsmbstgra1111 1234 FINISHED 1491377495217
+2022-07-25 14:45:12,308 [main] DEBUG services.LogServiceImpl - Entry OBJ:scsmbstgrc3333 null STARTED 1491377495210
+2022-07-25 14:45:12,308 [main] DEBUG services.LogServiceImpl - Entry OBJ:scsmbstgrb2222 null FINISHED 1491377495216
+2022-07-25 14:45:12,309 [main] INFO  utility.Utility - create logdetail table in dont exist!!
+2022-07-25 14:45:12,310 [main] INFO  utility.Utility - create logdetail table in dont exist!!
+2022-07-25 14:45:12,311 [main] DEBUG services.LogServiceImpl - retrive data from logdetail table id: scsmbstgra  duration : 5      Alert : true
+2022-07-25 14:45:12,311 [main] DEBUG services.LogServiceImpl - retrive data from logdetail table id: scsmbstgra1  duration : 5      Alert : true
+2022-07-25 14:45:12,312 [main] DEBUG services.LogServiceImpl - retrive data from logdetail table id: scsmbstgra11  duration : 5      Alert : true
+2022-07-25 14:45:12,312 [main] DEBUG services.LogServiceImpl - retrive data from logdetail table id: scsmbstgra111  duration : 5      Alert : true
+2022-07-25 14:45:12,312 [main] DEBUG services.LogServiceImpl - retrive data from logdetail table id: scsmbstgra1111  duration : 5      Alert : true
+2022-07-25 14:45:12,312 [main] DEBUG services.LogServiceImpl - retrive data from logdetail table id: scsmbstgrb  duration : 3      Alert : false
+2022-07-25 14:45:12,312 [main] DEBUG services.LogServiceImpl - retrive data from logdetail table id: scsmbstgrb2  duration : 3      Alert : false
+2022-07-25 14:45:12,312 [main] DEBUG services.LogServiceImpl - retrive data from logdetail table id: scsmbstgrb22  duration : 3      Alert : false
+2022-07-25 14:45:12,312 [main] DEBUG services.LogServiceImpl - retrive data from logdetail table id: scsmbstgrb222  duration : 3      Alert : false
+2022-07-25 14:45:12,313 [main] DEBUG services.LogServiceImpl - retrive data from logdetail table id: scsmbstgrb2222  duration : 3      Alert : false
+2022-07-25 14:45:12,313 [main] DEBUG services.LogServiceImpl - retrive data from logdetail table id: scsmbstgrc  duration : 8      Alert : true
+2022-07-25 14:45:12,313 [main] DEBUG services.LogServiceImpl - retrive data from logdetail table id: scsmbstgrc3  duration : 8      Alert : true
+2022-07-25 14:45:12,313 [main] DEBUG services.LogServiceImpl - retrive data from logdetail table id: scsmbstgrc33  duration : 8      Alert : true
+2022-07-25 14:45:12,313 [main] DEBUG services.LogServiceImpl - retrive data from logdetail table id: scsmbstgrc333  duration : 8      Alert : true
+2022-07-25 14:45:12,313 [main] DEBUG services.LogServiceImpl - retrive data from logdetail table id: scsmbstgrc3333  duration : 8      Alert : true
